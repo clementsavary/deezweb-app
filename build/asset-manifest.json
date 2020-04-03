@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/deezweb-app/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/deezweb-app/static/js/main.93efd1af.chunk.js",
+    "main.js.map": "/deezweb-app/static/js/main.93efd1af.chunk.js.map",
+    "runtime-main.js": "/deezweb-app/static/js/runtime-main.a681c4ae.js",
+    "runtime-main.js.map": "/deezweb-app/static/js/runtime-main.a681c4ae.js.map",
+    "static/js/2.908ab174.chunk.js": "/deezweb-app/static/js/2.908ab174.chunk.js",
+    "static/js/2.908ab174.chunk.js.map": "/deezweb-app/static/js/2.908ab174.chunk.js.map",
+    "index.html": "/deezweb-app/index.html",
+    "precache-manifest.f27e179a5a4179c8b4a83720bbbf9f8e.js": "/deezweb-app/precache-manifest.f27e179a5a4179c8b4a83720bbbf9f8e.js",
+    "service-worker.js": "/deezweb-app/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/deezweb-app/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.908ab174.chunk.js.LICENSE.txt": "/deezweb-app/static/js/2.908ab174.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/deezweb-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a681c4ae.js",
+    "static/js/2.908ab174.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.93efd1af.chunk.js"
+  ]
+}
